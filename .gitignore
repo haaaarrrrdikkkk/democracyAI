@@ -1,0 +1,4 @@
+.streamlit/secrets.toml
+election_assistant_audit.db
+__pycache__/
+.venv/
